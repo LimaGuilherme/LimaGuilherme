@@ -1,4 +1,5 @@
-<img align="right" src="https://github.com/LimaGuilherme/LimaGuilherme/blob/master/me.png" width=350px height=465px/>
+<img align="right" src="https://github.com/LimaGuilherme/LimaGuilherme/blob/master/me.png" 
+alt="Me Programming" width=350px height=465px/>
 
 ### Hi there
 
