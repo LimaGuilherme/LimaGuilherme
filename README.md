@@ -4,6 +4,7 @@
 
 I'm a software engineer with over 4 years of experience working with web applications.
 
+I also play drums and play League of Legends :smiley:
 
 ## Get in touch
 - Personal site: https://limaguilherme.github.io
