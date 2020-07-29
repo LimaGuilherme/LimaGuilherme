@@ -2,7 +2,9 @@
 
 ### Hi there
 
-I'm a software engineer with over 4 years of experience working with web applications.
+I'm a software engineer with over 4 years of experience working with web applications using a variety of technologies and stacks such as Python, Flask, AngularJs, React.
+
+Personally, I'm a team player, always willing to learning and teaching.
 
 I also play drums and play League of Legends :smiley:
 
