@@ -3,3 +3,9 @@
 ### Hi there
 
 I currently work as Software Engineer at InCeres. 
+
+
+## Get in touch
+- Personal site: https://limaguilherme.github.io
+- Linkedin: https://www.linkedin.com/in/guilhermelb
+- Email: guilherme.lb@outlook.com
